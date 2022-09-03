@@ -1,0 +1,15 @@
+.feedbackDetail-container {
+  width: 60%;
+  height: auto;
+  min-height: 100%;
+  margin-left: 20%;
+  padding-top: 10px;
+  padding-right: 10%;
+  padding-left: 10%;
+  background-color: #fff;
+}
+.shenhe {
+  width: 100%;
+  height: auto;
+  padding-top: 5px;
+}

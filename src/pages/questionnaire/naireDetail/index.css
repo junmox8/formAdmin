@@ -1,0 +1,10 @@
+.naire-container {
+  width: 60%;
+  height: auto;
+  min-height: 90vh;
+  margin-left: 20%;
+  padding-top: 10px;
+  padding-right: 10%;
+  padding-left: 10%;
+  background-color: #fff;
+}
